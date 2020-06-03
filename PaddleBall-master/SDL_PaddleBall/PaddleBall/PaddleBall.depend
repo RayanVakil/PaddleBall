@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521046289 source:c:\users\rayan\desktop\csc 222\paddleball\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
+1534128558 source:c:\users\rayan\desktop\csc 222\paddleball\paddleball.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	<time.h>
+	<vector>
+

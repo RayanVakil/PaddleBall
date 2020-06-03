@@ -1,0 +1,5 @@
+This game is very simple!
+It is 2 player pong!
+Player paddle is controlled using up and down arrow keys,
+while enemy paddle is controlled using w and s.
+There is no score limit but the score board is there to keep track.
